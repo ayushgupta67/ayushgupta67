@@ -25,12 +25,3 @@
 </div>
 
 ###
-
-<div align="left">
-</div>
-
-###
-
-<img src="https://raw.githubusercontent.com/ayushgupta67/ayushgupta67/output/snake.svg" alt="Snake animation" />
-
-###
