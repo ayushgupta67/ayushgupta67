@@ -1,4 +1,4 @@
-<h1 align="center">Hey 👋, I'm Ayush Gupta</h1>
+<h1 align="center">print("Hello World"), I'm Ayush Gupta</h1>
 <h3 align="center">Pre-final Year Student at IIT Jodhpur | Aspiring Mechancial cum Software Engineer</h3>
 
 <p align="center">
