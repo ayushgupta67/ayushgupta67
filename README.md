@@ -74,7 +74,6 @@
 ### 📫 Contact Me
 - **Email:** [ayushgupta1645@email.com](mailto:ayushgupta1645@email.com)
 - **Alternate:** [b23me1014@iitj.ac.in](mailto:b23me1014@iitj.ac.in)
-- **Phone:** +91-9649999320
 
 ---
 
