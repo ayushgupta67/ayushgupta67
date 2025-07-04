@@ -67,8 +67,8 @@
 
 ### 🎯 Positions of Responsibility
 - 🏅 **Assistant Head Marketing**, *Varchas’24*, IIT Jodhpur  
-- 🌍 **Assistant Head**, *IGMUN @ Ignus’25*, IIT Jodhpur
-
+- 🌍 **Assistant Head**, *IGMUN @ Ignus’25*, IIT Jodhpur  
+- 🎮 **Former Core Member**, *Respawn (Gaming Club)*, IIT Jodhpur
 ---
 
 ### 📫 Contact Me
