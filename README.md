@@ -40,7 +40,7 @@
 - **Stack:** React Native, JavaScript, UX Design
 
 #### 🧠 [Cliff Walking – Reinforcement Learning](https://github.com/ayushgupta67/Cliffwalking)
-> Solved the gridworld problem using SARSA, Q-Learning, and DQN.
+> Solved the gridworld problem using SARSA, Q-Learning.
 - DQN implemented with neural networks, replay buffer, and target networks.
 - **Stack:** Python, RL Algorithms
 
