@@ -4,8 +4,8 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/ayush-gupta-93253328/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin" /></a>
   <a href="https://github.com/ayushgupta67" target="_blank"><img src="https://img.shields.io/badge/GitHub-ayushgupta67-black?style=flat&logo=github" /></a>
-  <a href="mailto:ayushgupta1645@email.com"><img src="https://img.shields.io/badge/Email-ayushgupta1645@email.com-red?style=flat&logo=gmail" /></a>
-  <a href="mailto:b23me1014@iitj.ac.in"><img src="https://img.shields.io/badge/Email-b23me1014@iitj.ac.in-red?style=flat&logo=gmail" /></a>
+  <a href="mailto:ayushgupta1645@email.com"><img src="https://img.shields.io/badge/Primary Email-ayushgupta1645@email.com-red?style=flat&logo=gmail" /></a>
+  <a href="mailto:b23me1014@iitj.ac.in"><img src="https://img.shields.io/badge/Secondary Email-b23me1014@iitj.ac.in-red?style=flat&logo=gmail" /></a>
   <a href="https://leetcode.com/u/ayushgupta1645/" target="_blank"><img src="https://img.shields.io/badge/LeetCode-ayushgupta1645-orange?style=flat&logo=leetcode" /></a>
 </p>
 
