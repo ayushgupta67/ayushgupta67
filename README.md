@@ -13,7 +13,7 @@
 
 ### 🚀 About Me
 - 🎓 I'm a B.Tech. (Mechanical Engineering) student at **IIT Jodhpur** (2023–2027).
-- 🔭 Currently exploring **Data Structures and Algorithms**, **Machine Learning**, and **Web Development** technologies.
+- 🔭 Currently exploring **Data Structures and Algorithms**, **Machine Learning** and **Web Development** technologies.
 - 🧠 I enjoy building impactful projects that blend real-world problems with intelligent tech solutions.
 - 🏆 Department Rank 1
 
