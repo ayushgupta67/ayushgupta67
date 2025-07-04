@@ -77,11 +77,5 @@
 
 ---
 
-### 🌱 Currently Learning
-- Deep Learning with PyTorch
-- Advanced React + Next.js
-- Systems Programming & OS Concepts
-
----
 
 > ⭐ *Thanks for visiting! Let's connect and build something amazing.*  
