@@ -1,5 +1,5 @@
 <h1 align="center">Hey 👋, I'm Ayush Gupta</h1>
-<h3 align="center">Pre-final Year Student at IIT Jodhpur | Aspiring ML Engineer</h3>
+<h3 align="center">Pre-final Year Student at IIT Jodhpur | Aspiring Mechancial cum Software Engineer</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/ayush-gupta-93253328/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin" /></a>
